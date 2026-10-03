@@ -6,3 +6,7 @@ dist/
 coverage/
 .vscode/
 .idea/
+.agents/
+.claude/
+.cursor/
+.devin/
